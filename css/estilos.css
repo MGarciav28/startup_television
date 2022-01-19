@@ -393,14 +393,14 @@ footer .social a.youtube {
 }
 
 @media screen and (max-width: 992px) {
-  header .contenedor_logo_menu .logo {
+  header .contenedor-logo-menu .logo {
     margin-bottom: 20px;
     text-align: center;
   }
-  header .contenedor_logo_menu .menu {
+  header .contenedor-logo-menu .menu {
     text-align: center;
   }
-  header .contenedor_logo_menu .menu a {
+  header .contenedor-logo-menu .menu a {
     margin: 0 20px;
   }
   header .textos {
@@ -417,7 +417,7 @@ footer .social a.youtube {
     margin-bottom: 10px;
   }
   .main .fotos .foto .titulo {
-    margin-top: 0;
+    margin-top: 0px;
   }
   .main .clientes .cliente {
     margin-bottom: 40px;
